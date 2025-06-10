@@ -30,21 +30,24 @@ section {
   padding-right: 50px;
 }
 
-section me {
+.me {
   float: right;
   background-color: #bde3fb;
 }
 
-section.study{
+.study{
   float: left;
+  background-color: #e5effc;
 }
 
-section.skills{
+.skills{
   float: right;
+  background-color: #bde3fb;
 }
 
-section.other{
+.other{
   float: left;
+  background-color: #e5effc;
 }
 
 section h1 {
