@@ -32,22 +32,22 @@ section {
 
 .me {
   float: right;
-  background-color: #bde3fb;
+  background: #bde3fb;
 }
 
 .study{
   float: left;
-  background-color: #e5effc;
+  background: #e5effc;
 }
 
 .skills{
   float: right;
-  background-color: #bde3fb;
+  background: #bde3fb;
 }
 
 .other{
   float: left;
-  background-color: #e5effc;
+  background: #e5effc;
 }
 
 section h1 {
