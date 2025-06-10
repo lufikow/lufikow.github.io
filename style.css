@@ -30,22 +30,18 @@ section {
 }
 
 .me {
-  float: right;
   background: #bde3fb;
 }
 
 .study{
-  float: left;
   background: #e5effc;
 }
 
 .skills{
-  float: right;
   background: #bde3fb;
 }
 
 .other{
-  float: left;
   background: #e5effc;
 }
 
