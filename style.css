@@ -18,6 +18,7 @@ h2 {
 }
 
 section {
+  display: block;
   margin-top: 50px;
   margin-bottom: 50px;
   margin-left: 0;
